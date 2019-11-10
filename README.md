@@ -1,5 +1,6 @@
 # Week-2--Assignment
 Find at least 5 users to interview and make one persona to submit.
+
 Nhóm làm đề tài về App Tinder và phỏng vấn 5 người bạn của mỗi người về giả sử sản phẩm sắp ra mắt trong tương lai là Tinder.
 Who are they ?
 What is their main goal ?
